@@ -11,7 +11,7 @@ This is a project to create a JWT authentication using Node js(backend) and Reac
 
 ## Prerequisite
 
-To run Node-React-JWT you need to have node installed on your computer for live compiling of the css file. To install node follow the instructions [here](https://nodejs.org/en/download/).
+To run Node-React-JWT you need to have node installed on your computer. To install node follow the instructions [here](https://nodejs.org/en/download/).
 
 ## Installation
 
