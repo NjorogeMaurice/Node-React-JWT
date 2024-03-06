@@ -6,9 +6,6 @@ This is a project to create a JWT authentication using Node js(backend) and Reac
 - [Prerequisite](#prerequisite)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Local Development](#local-development)
-- [Migration](#migration)
-- [Contributing](#contributing)
 - [License](#license)
 
 
